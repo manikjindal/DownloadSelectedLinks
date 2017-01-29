@@ -1,0 +1,7 @@
+This is a Chrome extension to download selected links on current active tab.
+
+Included features:
+- Filter links with/out regex.
+- Select links from above filtered links.
+- Select or de-select all filtered links.
+- Download selected links.
